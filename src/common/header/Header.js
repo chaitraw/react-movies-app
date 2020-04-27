@@ -194,6 +194,7 @@ class Header extends Component {
                         </TabContainer>
                     }
                 </Modal>
+                    
             </header>
         )
     }
